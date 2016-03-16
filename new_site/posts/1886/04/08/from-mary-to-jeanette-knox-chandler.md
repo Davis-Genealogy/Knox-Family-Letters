@@ -1,0 +1,31 @@
+<html><body><a href="/wp-content/uploads/2014/06/postcard-2014-20140604_16141096_0477.jpg"><img class="alignnone size-full wp-image-1108" src="/wp-content/uploads/2014/06/postcard-2014-20140604_16141096_0477.jpg" alt="postcard-2014-20140604_16141096_0477" width="2255" height="2807"></a> <a href="/wp-content/uploads/2014/06/postcard-2014-20140604_16135932_0476.jpg"><img class="alignnone size-full wp-image-1109" src="/wp-content/uploads/2014/06/postcard-2014-20140604_16135932_0476.jpg" alt="postcard-2014-20140604_16135932_0476" width="2255" height="2789"></a> <a href="/wp-content/uploads/2014/06/postcard-2014-20140604_16160799_0479.jpg"><img class="alignnone size-full wp-image-1110" src="/wp-content/uploads/2014/06/postcard-2014-20140604_16160799_0479.jpg" alt="postcard-2014-20140604_16160799_0479" width="2255" height="2795"></a> <a href="/wp-content/uploads/2014/06/postcard-2014-20140604_16155680_0478.jpg"><img class="alignnone size-full wp-image-1111" src="/wp-content/uploads/2014/06/postcard-2014-20140604_16155680_0478.jpg" alt="postcard-2014-20140604_16155680_0478" width="2261" height="2783"></a> <a href="/wp-content/uploads/2014/06/postcard-2014-20140604_16183253_0481.jpg"><img class="alignnone size-full wp-image-1112" src="/wp-content/uploads/2014/06/postcard-2014-20140604_16183253_0481.jpg" alt="postcard-2014-20140604_16183253_0481" width="2255" height="2801"></a>
+
+
+
+From: Mary, To: Jeanette Knox Chandler
+
+Mailed From: Randolph, Iowa on April 18th, 1886
+
+
+
+Mailing Address:
+
+Miss Nettie Knox
+
+Sidney, Iowa
+
+
+
+Randolph, Iowa
+
+April 15th, '86
+
+Miss Nettie Knox,
+
+Dear Nettie pardon my for neglecting you so long but I have not wrote to any one down there but Clara and answered two that I received before we moved. I have worked terrible hard ever since I have been here and have not seen a well day. I have attempted several nights to write some letters but had to give it up and go to bed for I would be so sick and tired. I am just getting over my cold I had when we moved. Ma and I were both just about down for several days after we got here We did not come on out to the country until evening. The day we came I was sick in bed all fore noon after we got to my sister in Randolph. I wanted so bad to go down and see you and Annie before we left but I hd to go down town after we got through cleaning the house or rather sweeping and it was night when I got through my errands and got back home. Oh no to Websters. We took supper there and spent the evening and stayed all night with Sarah Heckel. She put a mustard drop on my chest and it blistered me so the skin peeled off several laters deep. I have not got entirely over my hoarseness yet. I cannot sing to amount to anything. I choke right down in a few words. Well, now I know you will be very much interested in hearing of my ailments. Ma wen down to Randolph today for the first time since we moved. She will stay until Saturday. It seems like she has been gone two or three days now. This is Thursday night and all have retired but me. I have been down to Randolph twice. Went down last Sat. afternoon and stayed until sunday eve. Have been down to my brother Will's three times. Spent the day once. Ma has been down twice. I think that is all. Sister's husband is here. He seen Mr. Roush in Randolph today. When our brother comes back there will be four men to look for. Well I suppose you would like to low how I like my new boarding place. Well I don't like it. I am even worse dissatisfied than I thought I would be. It is so fearful lonely and a regular old nat den. You would think so from the smell that is afloat up stairs. I set rough on rats the next day after we came. I tell you it is quiet now of nights but they will have to hold their noses while they sleep. Say hunney I have my bed in the from room all to my self and I want you to come up and sleep with me and we will tie our toes together again. I was washing my feet since I came here and I lost my string. Now that breaks me all up. Say, what does that mean that I cam cut out for an old mail. I had a letter from Miss Shumick a few days ago and she said for me to look for her any day for she was coming over after me to go home with her. Ma said I could go and you just bet I am. They are going to have a big dance before she goes home. I think she is scheming to have me there as that time her sister has gone to Neb but will be back this month. I dreamed last night I was down to Sidney just kissing everybody right and left and you just better believe I am coming too and that before long. Oh you don't know how bad I do want to come. I am going to have a new negative taken the first time I come and then I will give you a  better picture. Be sure and send yours when you write. I want it so bad. Tell Annie I want to see her and he children and she must have Mr. Roush bring her up here this spring and summer. We will try and have some fun of things on not very nice. Rob will always be ready for fun he just teases Fanney and I most to death. He comes in every meal and asks us girls if we have got some horses tail for dinner. He means horse radish. He is the worst you ever seen. He is always saying something you are not thinking of. Well Nettie I will say good night tonight and talk to you again in the morning.
+
+Well Nettie dinner is ready waiting for the men. I have been ironing all fore noon and am not half through. Will try to pull through after dinner. I have made my new calico dress. It looks real nice. Have done a lot of other sewing besides doing lots of cleaning at the old house. This doesn't seem a bit like home to me it just seems to me all the time I will go down home and find i just as it always was. I dream about home most every night. Well Nettie what all have you been doing since I left? Has any thing new or strange happened? It is just two weeks this evening since we came here bit it seems like two months. I told Fanney yesterday if I could only see one face pass by that I knew I would be delighted How is Dora Ruchardson? the men have come in to dinner and I will have to stop and eat. Well, I have had an envelope packed over a week to you so now I guess I will use it. Please write me a long letter soon.
+
+From yours lovingly, love to all, goodbye
+
+Mary to Nettie</body></html>
