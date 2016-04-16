@@ -1,0 +1,4 @@
+Sitemap: http://postcards.vprojects.us/sitemapindex.xml
+
+User-Agent: *
+Host: postcards.vprojects.us

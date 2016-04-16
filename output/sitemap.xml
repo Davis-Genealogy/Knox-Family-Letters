@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://postcards.vprojects.us/archive.html</loc>
+  <lastmod>2016-04-16T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://postcards.vprojects.us/categories/index.html</loc>
+  <lastmod>2016-04-16T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://postcards.vprojects.us/galleries/index.html</loc>
+  <lastmod>2016-04-16T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://postcards.vprojects.us/index.html</loc>
+  <lastmod>2016-04-16T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://postcards.vprojects.us/listings/index.html</loc>
+  <lastmod>2016-04-16T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://postcards.vprojects.us/stories/about.html</loc>
+  <lastmod>2016-04-16T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://postcards.vprojects.us/stories/tools.html</loc>
+  <lastmod>2016-04-16T11:57:00Z</lastmod>
+ </url>
+</urlset>
