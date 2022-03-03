@@ -1,0 +1,4 @@
+Sitemap: https://postcards.vdavis.net/sitemapindex.xml
+
+User-Agent: *
+Host: postcards.vdavis.net
