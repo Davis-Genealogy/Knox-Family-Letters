@@ -1,0 +1,40 @@
+---
+id: 2813
+title: 'From: Lucila, To: Amelia J. Wiggins'
+date: '1936-04-14T17:35:39+00:00'
+author: 'Post Cards'
+layout: post
+guid: 'http://localhost/?p=2813'
+permalink: /1936/04/14/2813/
+categories:
+    - Letter
+tags:
+    - 'Envelope Included'
+    - 'From: Lucila'
+    - 'To: Amelia J. Wiggins'
+---
+
+![postcard-2014-20150321_11343699_0668](/wp-content/uploads/2015/03/postcard-2014-20150321_11343699_0668.jpg) ![postcard-2014-20150321_11342653_0667](/wp-content/uploads/2015/03/postcard-2014-20150321_11342653_0667.jpg) ![postcard-2014-20150321_11350406_0670](/wp-content/uploads/2015/03/postcard-2014-20150321_11350406_0670.jpg) ![postcard-2014-20150321_11353436_0672](/wp-content/uploads/2015/03/postcard-2014-20150321_11353436_0672.jpg) ![postcard-2014-20150321_11352647_0671](/wp-content/uploads/2015/03/postcard-2014-20150321_11352647_0671.jpg)
+
+From: Lucila, To: Amelia J. Wiggins  
+Mailed From: Phoenix, Arizona on April 14, 1936
+
+Mrs. Amelia J. Wiggins  
+\#725 Waverly St. R-5  
+Columbus, Ohio
+
+If not called for in 30 Days  
+Return it to Miss Nellie  
+Yorks Gem Dr  
+Phoenix, Arizona
+
+Phoenix, Ariz  
+April 12, 1936  
+Mrs. Amelia J. Wiggins  
+Dear Mother,  
+As I have time I thought I would write you a few lines. Hoping my letter will find well. I am all right. How is it down there in Ohio? You You are all having some awful floods from what I seen in papers and what I been told. So I thought I would write to see if you are still alive. I hope that you dont get in those awful floods. We are beginning to have awful hot weather. I like Arizona – that is the weather here, but in summer it gets awful hot here. I feel it here more than I did any place I lived. I sure love to go back to Calif and go to Hollywood. I know all the movie stars. When is you birthday Mother? O yes have you heard anything about my kids.  
+Well mother I must close for this time, as I have one more letter to write. I remember the good times we used to have together. Then I got to go to town and I mail this on my way to town. I sure love to hear from my kids.  
+Have you every read that letter from my daughter she write to you.  
+Well good mother again I say good bye with love to you till I hear from you again will writte me next time.  
+Your daughter  
+Lucia

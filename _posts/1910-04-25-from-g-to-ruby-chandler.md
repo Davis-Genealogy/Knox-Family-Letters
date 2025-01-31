@@ -1,0 +1,27 @@
+---
+id: 927
+title: 'From: G., To: Ruby Chandler'
+date: '1910-04-25T21:13:04+00:00'
+author: 'Post Cards'
+layout: post
+guid: 'http://localhost/?p=927'
+permalink: /1910/04/25/927/
+categories:
+    - Postcard
+tags:
+    - 'From: G.'
+    - 'To: Ruby Chandler'
+---
+
+[![postcard-2014-20140602_15132909_0416](/wp-content/uploads/2014/06/postcard-2014-20140602_15132909_0416.jpg)](/wp-content/uploads/2014/06/postcard-2014-20140602_15132909_0416.jpg) [![postcard-2014-20140602_15134027_0417](/wp-content/uploads/2014/06/postcard-2014-20140602_15134027_0417.jpg)](/wp-content/uploads/2014/06/postcard-2014-20140602_15134027_0417.jpg)
+
+From: G., To: Ruby Chandler  
+Mailed From: MO on April 25, 1910  
+Picture Info: Copyright 1909 by Roth &amp; Langley, N.Y.
+
+Miss R. Chandler  
+Pearl, Illinois
+
+Dearie,  
+Wish I was home or you were here with me. Being good is such a lonesome job.  
+G.
