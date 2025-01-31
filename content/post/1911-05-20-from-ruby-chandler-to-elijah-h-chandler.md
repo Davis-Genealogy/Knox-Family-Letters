@@ -1,0 +1,27 @@
+---
+author: Post Cards
+categories:
+- Postcard
+date: "1911-05-20T23:50:12Z"
+guid: http://localhost/?p=465
+id: 465
+tags:
+- 'From: Ruby Chandler'
+- 'To: Elijah H. Chandler'
+title: 'From: Ruby Chandler, To: Elijah H. Chandler'
+url: /1911/05/20/465/
+---
+
+[![postcard-2014-20140430_17521016_0140](/wp-content/uploads/2014/04/postcard-2014-20140430_17521016_0140.jpg)](/wp-content/uploads/2014/04/postcard-2014-20140430_17521016_0140.jpg) [![postcard-2014-20140430_17534224_0143](/wp-content/uploads/2014/04/postcard-2014-20140430_17534224_0143.jpg)](/wp-content/uploads/2014/04/postcard-2014-20140430_17534224_0143.jpg)
+
+From: Ruby Chandler, To: Elijah H. Chandler  
+Mailed From: Wichita, Kansas on May 20, 1911  
+Photo Info: Jimmy Ward Taking Mrs. Ward for her First Flight. Wichita. May 4. 11
+
+Mr. E.H. Chandler  
+Pearl, Illinois
+
+Dear Papa,  
+This is a picture taken at the aviation meet here when we first came. A friend of Vinnie’s took us in his auto to the ball game yesterday afternoon. Omaha vs. Wichita. A great game. We sent a package home yesterday. A book for Margaret and Lucerne. Tell Lucerne to read to Margaret.  
+Love to all,  
+Ruby

@@ -1,0 +1,24 @@
+---
+author: Post Cards
+categories:
+- Letter
+date: "1900-12-16T17:42:50Z"
+guid: http://localhost/?p=1928
+id: 1928
+tags:
+- Date Partially Unknown
+- 'From: Martin Chandler'
+- 'To: Elijah H. Chandler and Family'
+title: 'From: Martin Chandler, To: Elijah H. Chandler'
+url: /1900/12/16/1928/
+---
+
+![postcard-2014-20141206_10433991_0002](/wp-content/uploads/2014/12/postcard-2014-20141206_10433991_0002.jpg) ![postcard-2014-20141206_10433175_0001](/wp-content/uploads/2014/12/postcard-2014-20141206_10433175_0001.jpg)From: Martin Chandler, To: Elijah H. Chandler  
+Mailed From: Cairo, Ill. on December 16
+
+Cairo, Ill. Dec 16  
+Dearest Folks,  
+Getting along OK. Leave here today. Sure hope I can get a job. it’s pretty cold down here but don’t mind it much. Rather be traveling this way than to be laying round in Pearl. Sure would like to hear from yours. I can imagine what you all think of me for leaving this way especially while Grace and Lorin were there but think I’d rather be most anywhere than Pearl.  
+Next time I write I’ll give you an address and want to hear from some of you.  
+Lovingly,  
+Martin

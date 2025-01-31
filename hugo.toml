@@ -1,0 +1,16 @@
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+title = "Knox, Chandler, Davis Letters"
+subtitle = "Letter, Photos and Postcards from 1880-1960"
+
+[params.homeInfo]
+orderBy = "date"  # Note the capital 'B'
+reverse = true    # Remove quotes, use boolean true/false
+
+# Suppress HTML warnings
+ignoreLogs = ["warning-goldmark-raw-html"]
+

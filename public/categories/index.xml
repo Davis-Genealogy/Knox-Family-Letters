@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on </title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Jan 1971 18:53:15 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Letter</title>
+      <link>//localhost:1313/categories/letter/</link>
+      <pubDate>Sun, 31 Jan 1971 18:53:15 +0000</pubDate>
+      <guid>//localhost:1313/categories/letter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postcard</title>
+      <link>//localhost:1313/categories/postcard/</link>
+      <pubDate>Fri, 27 Jul 1962 22:56:26 +0000</pubDate>
+      <guid>//localhost:1313/categories/postcard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Holiday Card</title>
+      <link>//localhost:1313/categories/holiday-card/</link>
+      <pubDate>Sun, 25 Dec 1927 17:40:21 +0000</pubDate>
+      <guid>//localhost:1313/categories/holiday-card/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncategorized</title>
+      <link>//localhost:1313/categories/uncategorized/</link>
+      <pubDate>Sat, 19 Nov 1927 17:39:04 +0000</pubDate>
+      <guid>//localhost:1313/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Birthday Card</title>
+      <link>//localhost:1313/categories/birthday-card/</link>
+      <pubDate>Mon, 01 Aug 1910 22:14:25 +0000</pubDate>
+      <guid>//localhost:1313/categories/birthday-card/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

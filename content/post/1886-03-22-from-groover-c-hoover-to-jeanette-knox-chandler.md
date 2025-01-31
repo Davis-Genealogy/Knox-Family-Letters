@@ -1,0 +1,24 @@
+---
+author: Post Cards
+categories:
+- Letter
+date: "1886-03-22T19:29:10Z"
+guid: http://localhost/?p=1601
+id: 1601
+tags:
+- 'From: Groover C. Hoover'
+- 'To: Jeanette Knox Chandler'
+title: 'From: Groover C. Hoover, To: Jeanette Knox Chandler'
+url: /1886/03/22/1601/
+---
+
+![postcard-2014-20140707_13294633_0748](/wp-content/uploads/2014/07/postcard-2014-20140707_13294633_0748.jpg) ![postcard-2014-20140707_13295809_0749](/wp-content/uploads/2014/07/postcard-2014-20140707_13295809_0749.jpg)From: Groover C. Hoover, To: Jeanette Knox Chandler  
+Mailed From: Monteguma, Illinois on March 22, 1886
+
+Monteguma, Ill. March 22, ’86  
+Friend Nettie,  
+I take pleasure in dropping you a few lines. I wrote to you some few days after you went away and mailed the letter to Pearl, but was to late to reach you, but I suppose it was forwarded to you, or at least I heard you got it. I was surprised to think you would not answer it, even you was so far away. You was not so far away but when you got it. Would like for you to write and explain why you didn’t answer. I don’t like to be treated so. Is your parents opposed to me corresponding with you, or do you not want to yourself. If so, all you got to do, is to say so, and that will close our correspondence at once.  
+Hoping to hear from you. I will close.  
+G.C. Hoover  
+P.S. Excuse fast writing as am in a hurry.  
+Hoover

@@ -1,0 +1,23 @@
+---
+author: Post Cards
+categories:
+- Postcard
+date: "1910-07-11T00:06:00Z"
+guid: http://localhost/?p=1050
+id: 1050
+tags:
+- 'From: Clara'
+- 'To: Grace Chandler'
+title: 'From: Clara, To: Grace Chandler'
+url: /1910/07/11/1050/
+---
+
+[![postcard-2014-20140602_18055549_0442](/wp-content/uploads/2014/06/postcard-2014-20140602_18055549_0442.jpg)](/wp-content/uploads/2014/06/postcard-2014-20140602_18055549_0442.jpg) [![postcard-2014-20140602_18060422_0443](/wp-content/uploads/2014/06/postcard-2014-20140602_18060422_0443.jpg)](/wp-content/uploads/2014/06/postcard-2014-20140602_18060422_0443.jpg)From: Clara, To: Grace Chandler  
+Mailed From: Chicago, Illinois on July 11, 1910  
+Picture Info: Washington Park, Lagoon, Chicago. Oldest South Side Park; Area 371 Acres.
+
+Miss Grace Chandler  
+Pearl, Illinois
+
+How are you? I sent you a letter some time ago. Guess you received it. Am in Chicago.  
+Clara

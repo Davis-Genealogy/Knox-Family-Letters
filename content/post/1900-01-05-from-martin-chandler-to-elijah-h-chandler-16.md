@@ -1,0 +1,31 @@
+---
+author: Post Cards
+categories:
+- Letter
+date: "1900-01-05T22:46:41Z"
+guid: http://localhost/?p=2286
+id: 2286
+tags:
+- Date Partially Unknown
+- 'From: Martin Chandler'
+- 'To: Elijah H. Chandler and Family'
+title: 'From: Martin Chandler, To: Elijah H. Chandler'
+url: /1900/01/05/2286/
+---
+
+![postcard-2014-20150108_15470735_0256](/wp-content/uploads/2015/01/postcard-2014-20150108_15470735_0256.jpg) ![postcard-2014-20150108_15471781_0258](/wp-content/uploads/2015/01/postcard-2014-20150108_15471781_0258.jpg) ![postcard-2014-20150108_15472210_0260](/wp-content/uploads/2015/01/postcard-2014-20150108_15472210_0260.jpg) ![postcard-2014-20150108_15473508_0262](/wp-content/uploads/2015/01/postcard-2014-20150108_15473508_0262.jpg) ![postcard-2014-20150108_15473734_0263](/wp-content/uploads/2015/01/postcard-2014-20150108_15473734_0263.jpg) ![postcard-2014-20150108_15474453_0264](/wp-content/uploads/2015/01/postcard-2014-20150108_15474453_0264.jpg)
+
+From: Martin Chandler, To: Elijah H. Chandler  
+Mailed From: Little Silver, New Jersey
+
+Mr. E. H. Chandler  
+Pearl, Ill  
+Pike Co
+
+5th  
+Dearest papa mama, and all  
+Received 2 letters from papa day before yesterday. Awful glad to get them. Was just starting home from club and thought would drop you couple lines right quick. Nothing new to write. Don’t know when we will leave. Nobody seems to know. May be here until Christmas and again may leave within the week. We’re all prepared to leave immediately. They fixed up the allotment for me today.  
+You will get 20.00 about 1st of Nov. and each month from then on for 1 year. I wont have 20 myself to send it home now. Seems like it slips through my fingers just as I get it. Hope everybody is well. Am in hurry just now so will stop and write more some other time.  
+Feeling fine.  
+Lovingly,  
+Martin
